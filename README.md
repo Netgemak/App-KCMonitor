@@ -1,2 +1,2 @@
-app-kcmonitor
+KCMonitor
 =============
